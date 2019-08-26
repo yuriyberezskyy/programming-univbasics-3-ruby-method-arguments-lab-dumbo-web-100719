@@ -18,7 +18,8 @@ end
 
 
 def introduction_with_language_optional(name = "Edwin", language = "Ruby")
-  puts
+  puts "Hi, my name is Edwin and I am learning to program in Ruby.\n"
+end
 
 
 
