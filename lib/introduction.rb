@@ -12,7 +12,7 @@ def introduction (name = "Dan")
 end
 
 
-def introduction_with_language (name = "", language = "Ruby")
+def introduction_with_language (name = "Dan", language = "Ruby")
 
 
 
